@@ -1,10 +1,6 @@
 ## What is [FreeBSD](https://www.freebsd.org/){:target="_blank"}?
 
-FreeBSD is an open-source operating system based on Unix that is used to run servers, desktops, and embedded systems. It is known for its stability, performance, and security features. It is developed and maintained by a community of volunteers, and is released under the BSD license. Some of the key features of FreeBSD include support for a wide range of hardware, a robust network stack, advanced security features, and a powerful package management system. It is often used as a base for other operating systems, including Apple's macOS. Many popular software applications, such as web servers, databases, and programming languages, can be easily installed and run on FreeBSD.
-
-### The FreeBSD License:
-
-The BSD (Berkeley Software Distribution) license is a type of open-source license that allows users to use, modify, and distribute software without many of the restrictions commonly found in other open-source licenses.
+FreeBSD is a Unix-based open-source operating system that runs servers, desktops, and embedded systems. It is well known for its stability, performance, and security features. It is maintained by the open-source community and distributed under the BSD license. Broad hardware support, a robust networking stack, cutting-edge security measures, and a powerful package management system are some of FreeBSD's standout features. It frequently serves as the foundation for other operating systems, such as Apple's macOS. FreeBSD makes it simple to install and run a wide variety of well-known software programs, including databases, programming languages, web servers, and much more.
 
 ---
 
