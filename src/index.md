@@ -4,6 +4,12 @@ FreeBSD is a Unix-based open-source operating system that runs servers, desktops
 
 ---
 
+## Assignment 1 - Conceptual Architecture
+- [View Report](https://bittheoryproject.github.io/eecs4314-reports/a1/report-lualatex.pdf){:target="_blank"}
+- [View Slides](https://docs.google.com/presentation/d/1sA3_FYNZh-_fDo4m-T7eYKb8_ikVUxBL9JezapIU_hU/edit?usp=sharing){:target="_blank"}
+
+---
+
 ## External Sources:
 
 ### Getting Started:
@@ -32,7 +38,3 @@ FreeBSD is a Unix-based open-source operating system that runs servers, desktops
 - [Handbook](https://download.freebsd.org/doc/en/books/handbook/handbook_en.pdf){:target="_blank"}
 - [Porters Handbook](https://download.freebsd.org/doc/en/books/porters-handbook/porters-handbook_en.pdf){:target="_blank"}
 - [Others](https://docs.freebsd.org/en/books/){:target="_blank"}
-
-## Conceptual Architecture:
-- [slides](https://docs.google.com/presentation/d/1sA3_FYNZh-_fDo4m-T7eYKb8_ikVUxBL9JezapIU_hU/edit?usp=sharing)
-- [report](https://bittheoryproject.github.io/eecs4314-reports/a1/report-lualatex.pdf)
