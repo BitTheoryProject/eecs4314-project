@@ -17,6 +17,13 @@ FreeBSD is a Unix-based open-source operating system that runs servers, desktops
 
 ---
 
+## Assignment 3 - Dependency Extraction
+- [View Report](https://bittheoryproject.github.io/eecs4314-reports/a3/report-lualatex.pdf){:target="_blank"}
+- [View Slides](https://docs.google.com/presentation/d/1YPwH-eZRkte0nJ9dFhvrS193IF9GI1jcGGhaxsHFJSc/edit?usp=sharing){:target="_blank"}
+- [View Source Code](https://github.com/BitTheoryProject/eecs4314-reports/tree/main/a3/src){:target="_blank"}
+
+---
+
 ## External Sources:
 
 ### Getting Started:
