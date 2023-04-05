@@ -24,6 +24,12 @@ FreeBSD is a Unix-based open-source operating system that runs servers, desktops
 
 ---
 
+## Assignment 4 - Proposed Enhancement
+- [View Report](https://bittheoryproject.github.io/eecs4314-reports/a4/report-lualatex.pdf){:target="_blank"}
+- [View Slides](https://docs.google.com/presentation/d/1_szzQixsTU_jmPJ8POerD2eHuZL7rTXtiK01VLwybrQ/edit?usp=sharing){:target="_blank"}
+
+---
+
 ## External Sources:
 
 ### Getting Started:
